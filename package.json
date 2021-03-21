@@ -1,0 +1,29 @@
+{
+    "name": "@ts-core/twoFa",
+    "version": "1.0.0",
+    "description": "Classes and utils for 2FA",
+    "main": "index.js",
+    "scripts": {},
+    "author": {
+        "name": "Renat Gubaev",
+        "email": "renat.gubaev@gmail.com"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "@ts-core/common": "^1.0.161"
+    },
+    "devDependencies": {
+        "gulp-npm-publisher": "1.0.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ManhattanDoctor/ts-core-notification.git"
+    },
+    "keywords": [
+        "typescript"
+    ],
+    "bugs": {
+        "url": "https://github.com/ManhattanDoctor/ts-core-notification/issues"
+    },
+    "homepage": "https://github.com/ManhattanDoctor/ts-core-notification#readme"
+}
