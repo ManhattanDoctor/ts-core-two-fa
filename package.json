@@ -1,6 +1,6 @@
 {
     "name": "@ts-core/twoFa",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Classes and utils for 2FA",
     "main": "index.js",
     "scripts": {},
