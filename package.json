@@ -1,5 +1,5 @@
 {
-    "name": "@ts-core/twoFa",
+    "name": "@ts-core/two-fa",
     "version": "1.0.1",
     "description": "Classes and utils for 2FA",
     "main": "index.js",

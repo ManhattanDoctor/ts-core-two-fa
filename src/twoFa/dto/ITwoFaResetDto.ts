@@ -5,5 +5,4 @@ export interface ITwoFaResetDto extends ITwoFaDto {
     ownerUid: TwoFaOwnerUid;
 }
 
-
 export type ITwoFaResetDtoResponse = void;
