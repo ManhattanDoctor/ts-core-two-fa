@@ -4,4 +4,5 @@ export interface ITwoFaResetFinishDto extends ITraceable {
     resetUid: string;
 }
 
+
 export type ITwoFaResetFinishDtoResponse = string;
