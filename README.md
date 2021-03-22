@@ -1,2 +1,2 @@
-# ts-core-twoFa
-Common classes for twoFa
+# ts-core-two-fa
+Common classes for two-fa

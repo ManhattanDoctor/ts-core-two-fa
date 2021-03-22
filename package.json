@@ -17,13 +17,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ManhattanDoctor/ts-core-notification.git"
+        "url": "git+https://github.com/ManhattanDoctor/ts-core-two-fa.git"
     },
     "keywords": [
         "typescript"
     ],
     "bugs": {
-        "url": "https://github.com/ManhattanDoctor/ts-core-notification/issues"
+        "url": "https://github.com/ManhattanDoctor/ts-core-two-fa/issues"
     },
-    "homepage": "https://github.com/ManhattanDoctor/ts-core-notification#readme"
+    "homepage": "https://github.com/ManhattanDoctor/ts-core-two-fa#readme"
 }
