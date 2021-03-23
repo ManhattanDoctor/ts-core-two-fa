@@ -6,4 +6,4 @@ export interface ITwoFaResetStartDto extends ITraceable {
     type: string;
 }
 
-export type ITwoFaResetStartDtoResponse = ITwoFa;
+export type ITwoFaResetStartDtoResponse = string;
