@@ -1,7 +1,7 @@
 {
     "name": "@ts-core/two-fa",
     "version": "1.0.7",
-    "description": "Classes and utils for 2FA",
+    "description": "Common TypeScript interfaces and types for two-factor authentication (2FA): providers, challenges and verification abstractions",
     "main": "index.js",
     "scripts": {},
     "author": {
@@ -20,7 +20,14 @@
         "url": "git+https://github.com/ManhattanDoctor/ts-core-two-fa.git"
     },
     "keywords": [
-        "typescript"
+        "typescript",
+        "2fa",
+        "two-factor",
+        "authentication",
+        "security",
+        "otp",
+        "mfa",
+        "verification"
     ],
     "bugs": {
         "url": "https://github.com/ManhattanDoctor/ts-core-two-fa/issues"
